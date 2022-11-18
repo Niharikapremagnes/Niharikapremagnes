@@ -1,0 +1,15 @@
+1664305277726	Delete element
+1664308329174	Rename package 'com.jpa.crud.controller'
+1664308345915	Rename package 'com.jpa.crud.entity'
+1664308360756	Rename package 'com.jpa.crud.service'
+1664308378275	Rename package 'com.jpa.crud.repository'
+1664308406729	Rename package 'com.jpa.crud.example'
+1664310540567	Rename package 'com.jpa.controller'
+1664310557999	Rename package 'com.jpa.entity'
+1664310593533	Rename package 'com.jpa.example'
+1664310613636	Rename package 'com.jpa.repository'
+1664310627452	Rename package 'com.jpa.service'
+1664310669834	Rename type 'DemoApplication'
+1664310745308	Move compilation unit
+1664310753884	Delete element
+1664311016536	Move compilation unit

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\c1julymind155\eclipse-ws\JPA"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\c1julymind155\Documents\spring-boot-microservices-workshop-master\spring-boot-microservices-workshop-master\discovery-server"/>
+			<item value="C:\Users\c1julymind155\Downloads\employee-management-webapp-main"/>
+			<item value="C:\Users\c1julymind155\Downloads\02.Spring-Boot-Web-Application"/>
+			<item value="C:\Users\c1julymind155\Documents\02.Spring-Boot-Web-Application-V2"/>
+			<item value="C:\Users\c1julymind155\Desktop\Spring-Data-JPA-Relationships-master\Spring-Data-JPA-Relationships-master"/>
+			<item value="C:\Users\c1julymind155\Desktop\spring-data-jpa-one2many-join-example\spring-data-jpa-one2many-join-example-master"/>
+			<item value="C:\Users\c1julymind155\eclipse-workspace\Employeelist"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="331"/>
+		<item key="DIALOG_Y_ORIGIN" value="34"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

@@ -1,0 +1,29 @@
+server:
+  port: 9191
+
+spring:
+  application:
+    name: API-GATEWAY
+ 
+ 
+  cloud:
+    gateway:
+      routes:
+        - id: CRICKETTEAMPLAYERS-SERVICE
+          uri: lb://CRICKETTEAMPLAYERS-SERVICE
+          predicates:
+            - Path=/players/**
+        - id: CRICKETTEAMS-SERVICE
+          uri: lb://CRICKETTEAMS-SERVICE
+          predicates:
+            - Path=/cts/**
+ 
+ 
+eureka:
+  client:
+     register-with-eureka: true
+     fetch-registry: true
+     service-url:
+        defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost

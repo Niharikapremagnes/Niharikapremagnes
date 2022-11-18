@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\c1julymind155\eclipse-ServletProgramming\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3546827884.index
+\CalculatorClient\src\main\java

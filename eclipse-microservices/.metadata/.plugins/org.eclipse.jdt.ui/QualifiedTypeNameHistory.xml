@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.employee.entity.Employee"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="com.ms.repository.DepartmentRepository"/>
+    <fullyQualifiedTypeName name="com.ms.service.DepartmentService"/>
+    <fullyQualifiedTypeName name="com.ms.entity.Department"/>
+    <fullyQualifiedTypeName name="com.ems.repository.EmployeeRepository"/>
+    <fullyQualifiedTypeName name="com.ems.service.EmployeeService"/>
+    <fullyQualifiedTypeName name="com.ems.entity.Employee"/>
+    <fullyQualifiedTypeName name="com.ems.vo.ResponseTemplateVO"/>
+    <fullyQualifiedTypeName name="com.ems.vo.Department"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalanced"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+    <fullyQualifiedTypeName name="com.ct.repository.CricketTeamsRepository"/>
+    <fullyQualifiedTypeName name="com.ct.service.CricketTeamsService"/>
+    <fullyQualifiedTypeName name="com.ct.entity.CricketTeams"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.ctp.service.CricketTeamPlayersService"/>
+    <fullyQualifiedTypeName name="com.ctp.vo.ResponseTemplateVO"/>
+    <fullyQualifiedTypeName name="com.ctp.entity.CricketTeamPlayers"/>
+    <fullyQualifiedTypeName name="com.ctp.repository.CricketTeamPlayersRepository"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+</qualifiedTypeNameHistroy>

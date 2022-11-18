@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;jsp&apos;&#x0D;&#x0A;- Original project: &apos;02.Spring-Boot-Web-Application&apos;&#x0D;&#x0A;- Destination element: &apos;jsp&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     welcome.jsp&#x0D;&#x0A;     error.jsp&#x0D;&#x0A;     list-todos.jsp&#x0D;&#x0A;     todo.jsp" description="Copy files" element1="src/main/resources/META-INF/resources/WEB-INF/jsp/welcome.jsp" element2="src/main/resources/META-INF/resources/WEB-INF/jsp/error.jsp" element3="src/main/resources/META-INF/resources/WEB-INF/jsp/list-todos.jsp" element4="src/main/resources/META-INF/resources/WEB-INF/jsp/todo.jsp" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664569955384" target="/LeagueAdministrator/src/main/resources/META-INF/resources/WEB-INF/jsp" units="0" version="1.0"/>
+</session>
